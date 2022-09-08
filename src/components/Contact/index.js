@@ -123,19 +123,16 @@ return (
         <Col lg={4} md={12}>
         <h2 class="education">my education</h2>
         <p>
-          <span className="school-name">UC BERKELEY EXTENSION</span><br></br>
-          Full Stack Boot Camp - Certification 
+          <span className="school-name">University Of Transilvania</span><br></br>
+          Materials Science - Bachelor's Degree 
           <br></br>
           <br></br>
-          <span className="school-name">SAN FRANCISCO STATE UNIVERSITY</span><br></br>
-          Business Admin & Management - BS
+          <span className="school-name">UT Austin Texas</span><br></br>
+          Full Stack Bootcamp - Certification
           <br></br>
           <br></br>
-          <span className="school-name">LOS MEDANOS COLLEGE</span><br></br>
-          Liberal Arts: Arts & Humanities - AA<br></br>
-          Liberal Arts: Math & Science - AS<br></br>
-          Liberal Arts: Biological & Social Science - AA<br></br>
-          Business Administration - AS
+          <span className="school-name"></span><br></br>
+          
         </p>
         </Col>
         </Row>
